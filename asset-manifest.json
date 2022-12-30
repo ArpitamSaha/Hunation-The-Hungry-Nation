@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Hunation-The-Hungry-Nation/static/css/main.073c9b0a.css",
+    "main.js": "/Hunation-The-Hungry-Nation/static/js/main.83a6eb6d.js",
+    "static/js/787.72a664f9.chunk.js": "/Hunation-The-Hungry-Nation/static/js/787.72a664f9.chunk.js",
+    "static/media/FoodBanner.jpeg": "/Hunation-The-Hungry-Nation/static/media/FoodBanner.10a6747294d6dbd68da3.jpeg",
+    "static/media/Beverages.jpeg": "/Hunation-The-Hungry-Nation/static/media/Beverages.b99a5e578704f9dc58e2.jpeg",
+    "static/media/Food.jpeg": "/Hunation-The-Hungry-Nation/static/media/Food.7a0d190d8df579dfa940.jpeg",
+    "static/media/Dessert.jpg": "/Hunation-The-Hungry-Nation/static/media/Dessert.e3440e4c6e01016cc24b.jpg",
+    "static/media/Hunation(Dark).png": "/Hunation-The-Hungry-Nation/static/media/Hunation(Dark).31c764d3796349f46472.png",
+    "static/media/Special.jpeg": "/Hunation-The-Hungry-Nation/static/media/Special.a28c8fb60835b3b0c70b.jpeg",
+    "index.html": "/Hunation-The-Hungry-Nation/index.html",
+    "main.073c9b0a.css.map": "/Hunation-The-Hungry-Nation/static/css/main.073c9b0a.css.map",
+    "main.83a6eb6d.js.map": "/Hunation-The-Hungry-Nation/static/js/main.83a6eb6d.js.map",
+    "787.72a664f9.chunk.js.map": "/Hunation-The-Hungry-Nation/static/js/787.72a664f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.83a6eb6d.js"
+  ]
+}
